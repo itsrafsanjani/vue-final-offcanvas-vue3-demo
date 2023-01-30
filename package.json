@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "vue": "^3.2.45",
-    "vue-final-offcanvas": "^3.0.1"
+    "vue-final-offcanvas": "github:itsrafsanjani/vue-final-offcanvas"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.0.0",
