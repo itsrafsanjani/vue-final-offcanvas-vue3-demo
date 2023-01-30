@@ -56,14 +56,10 @@ export default {
     Offcanvas,
   },
 
-  created() {
-    // document.documentElement.classList.add('dark')
-  },
-
   data() {
     return {
       showOffcanvas: false,
-      isDark: true,
+      isDark: false,
     };
   },
 
